@@ -5,29 +5,30 @@ Sendo desenvolvido em PixiJs
 
 Um jogo para auxiliar na reciclagem
 
-###Biblioteca:
+### Biblioteca:
 https://pixijs.io/examples/#/interaction/dragging.js
 
 comando para adicionar o node_modules
 sudo npm install pixi.js
 
-###Instalação
+### Instalação
 Clonar
-´git clone https://github.com/Kleber2018/Jogo-topicos.git´
-
+```
+git clone https://github.com/Kleber2018/Jogo-topicos.git
+```
 
 Executar o arquivo index.html para rodar o jogo
 
-###Limitação:
+### Limitação:
 Chromium não executou o arquivo
 
-###Referências
+### Referências
 Idéia de jogabilidade
 https://www.cokitos.pt/aprendizagem-de-cuidado-de-cavalos/play/
 
 Exemplo de código em PixiJS
 https://github.com/Zyie/Pixi.js-Game/blob/master/PixiJS%20-%20SnowFall/index.html
 
-###Ferramentas
+### Ferramentas
 Para tirar fundo da imagem
 https://www.online-image-editor.com/?language=portuguese
